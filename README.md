@@ -19,6 +19,7 @@ Informations:
 -------------
 
 Author: Valentin Chemiere for Elanz Centre <vchemiere@myopera.com>
+`OpenElanz<http://www.opensource-elanz.fr/>`_
 
 Version: 0.1
 
