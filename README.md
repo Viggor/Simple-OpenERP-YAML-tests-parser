@@ -18,8 +18,7 @@ python oe_test_parser.py /path/to/logfile
 Informations:
 -------------
 
-Author: Valentin Chemiere for Elanz Centre <vchemiere@myopera.com>
-`OpenElanz <http://www.opensource-elanz.fr/>`_
+Author: Valentin Chemiere for Elanz Centre <vchemiere@myopera.com> http://www.opensource-elanz.fr/
 
 Version: 0.1
 
