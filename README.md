@@ -18,7 +18,7 @@ python oe_test_parser.py /path/to/logfile
 Informations:
 -------------
 
-Author: Valentin Chemiere for Elanz Centre <vchemiere@myopera.com> http://www.opensource-elanz.fr/
+Author: Valentin Chemiere <vchemiere@viggor.eu> 
 
 Version: 0.1
 
@@ -29,4 +29,4 @@ Written in Python 2.7
 How to contribute:
 ------------------
 
-For any suggestion, question or submission write me at <vchemiere@myopera.com>
+For any suggestion, question or submission write me at <vchemiere@viggor.eu>
